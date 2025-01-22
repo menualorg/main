@@ -1,0 +1,6 @@
+<Men>
+  <Text>BeTL Subcommands:</Text>
+  <Subcommand help="Installs BeagleEditor for you">install</Subcommand>
+  <Subcommand help="Explains an error encountered in BeagleEditor">explain</Subcommand>
+  <OptionalArg help="Shows the help">--help</OptionalArg>
+</Men>
